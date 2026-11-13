@@ -1,0 +1,13 @@
+{
+  "baslik": "Forest fire and non-fire sample points with eleven conditioning factors for Muğla, Türkiye (2015–2024)",
+  "doi": "10.17632/mjz29dh3g8.1",
+  "yazar": "Bilge Eriş",
+  "surum": 1,
+  "yayin_tarihi": "2026-07-08",
+  "lisans": "CC BY 4.0",
+  "aciklama": "6746 sampled points (3373 fire, 3373 non-fire) used for forest fire susceptibility modelling in Muğla province, Türkiye. Columns: Actual (1 = fire, 0 = non-fire), Aspect (9 classes), NDVI, Slope (degrees), Temperature (°C, annual mean 2015–2024), Wind Speed (m/s), Elevation (m), Rainfall (mm, monthly mean), Land Cover (CORINE 2018 classes), Distance to Roads / Streams / Settlements (m). Fire records: Muğla Regional Directorate of Forestry.",
+  "dosya": "DATA.xlsx",
+  "boyut_bayt": 750991,
+  "sha256": "8f891ef3f02550cd3dbd829dd945c02d6b394d7a7d4cbd73c11cba1b4141939e",
+  "adres": "https://data.mendeley.com/datasets/mjz29dh3g8"
+}

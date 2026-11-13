@@ -1,0 +1,25 @@
+{
+  "ham_satir": 6746,
+  "ham_sinif": {
+    "yangin": 3373,
+    "yangin_degil": 3373
+  },
+  "ham_ozellik_sayisi": 11,
+  "bilinmeyen_arazi_cikarilan": 3,
+  "celiskili_satir_cikarilan": 214,
+  "celiskili_grup": 104,
+  "yinelenen_satir_cikarilan": 119,
+  "son_satir": 6410,
+  "son_sinif": {
+    "yangin": 3144,
+    "yangin_degil": 3266
+  },
+  "grup_sayisi": 25,
+  "grup_boyutu": {
+    "en_kucuk": 48,
+    "en_buyuk": 503
+  },
+  "saf_grup_orani_90": 0.24,
+  "eksik_deger": 0,
+  "ham_siralama_sinifa_gore": true
+}
